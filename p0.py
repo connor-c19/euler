@@ -11,7 +11,6 @@ def sum_square(use_evens: bool, use_odds: bool, number: int) -> float:
     return sum
 
 
-
 if __name__=='__main__':
     while True:
         try: number = int(input("Number of squares: "))
